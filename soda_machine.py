@@ -1,4 +1,7 @@
 import user_interface
+import coins
+import cans
+
 
 class SodaMachine:
     def __init__(self):
