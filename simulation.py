@@ -1,3 +1,4 @@
+from customer import Customer
 
 
 class Simulation:
