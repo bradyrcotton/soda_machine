@@ -6,7 +6,7 @@ class Can:
 
 class Cola(Can):
     def __init__(self):
-        super(Cola, self).__init__("Cola", 0.60)
+        super(Cola, self).__init__("Dr. Pepper", 0.60)
 
 
 class OrangeSoda(Can):
